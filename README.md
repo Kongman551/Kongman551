@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Zach Egner aka, @Kongman551
+- 👀 I’m interested in Robotics, Web Development, OOP
+- 🌱 I’m currently learning The Odin Project curriculum, currently focused on Ruby. 
+- 📫 How to reach me eggy551@gmail.com
